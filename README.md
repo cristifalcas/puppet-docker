@@ -1,3 +1,6 @@
+This repos is archived. Please use https://github.com/utking/puppet-docker from now on.
+
+
 # docker
 [![Build Status](https://travis-ci.org/cristifalcas/puppet-docker.png?branch=master)](https://travis-ci.org/cristifalcas/puppet-docker)
 
