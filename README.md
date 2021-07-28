@@ -1,4 +1,4 @@
-This repos is archived. Please use https://github.com/utking/puppet-docker from now on.
+This repo is archived. Please use https://github.com/utking/puppet-docker from now on.
 
 
 # docker
